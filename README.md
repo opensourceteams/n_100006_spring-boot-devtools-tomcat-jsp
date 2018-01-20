@@ -8,6 +8,7 @@
 - 解决控制台中文乱码问题
 - debug调试
 - git 地址 : https://github.com/opensourceteams/n_100006_spring-boot-devtools-tomcat-jsp
+- 视频地址 : https://www.youtube.com/watch?v=WZjt_0NVo0w
 - 启动命令 :  spring-boot:run
 - url:http://localhost:8080/jsp/helloMessageParam?name=b&age=100
 - http://localhost:8080/jsp/helloMessageParam2?name=b&age=100
