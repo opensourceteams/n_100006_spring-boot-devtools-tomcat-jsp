@@ -5,6 +5,7 @@
 - 增加后台方法，可以自动部署 
 - jsp页面传值后台接收
 - 后台返回值，前台显示
+- 解决控制台中文乱码问题
 - debug调试
 - git 地址 : https://github.com/opensourceteams/n_100006_spring-boot-devtools-tomcat-jsp
 - 启动命令 :  spring-boot:run
